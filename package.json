@@ -1,7 +1,7 @@
 {
-  "name": "meetingsdk-sample-angular",
+  "name": "mlis-zoom-angular",
   "version": "1.9.8",
-  "author": "Tommy Gaessler",
+  "author": "Ankur Datta",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
