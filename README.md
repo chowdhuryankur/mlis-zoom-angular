@@ -1,4 +1,4 @@
-# Zoom Meeting SDK Sample Angular
+# MLIS Meeting SDK Sample Angular
 
 
 �
